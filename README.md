@@ -1,3 +1,7 @@
+### Link to published version
+https://ankozhd.github.io/campaigns-test
+
+
 ### Assignment
 
 The candidate should create a simple react application that shows a list of campaign that can be filtered by campaign name and by date (using a
